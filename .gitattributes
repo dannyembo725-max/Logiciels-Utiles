@@ -1,0 +1,3 @@
+# Les scripts batch DOIVENT garder des fins de ligne CRLF, sinon cmd.exe
+# ne trouve pas les labels (goto) et les scripts ne fonctionnent pas.
+*.bat text eol=crlf

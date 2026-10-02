@@ -1,0 +1,13 @@
+# Journaux et fichiers temporaires
+*.tmp
+*.log
+Ressources/install.log
+
+# Python
+__pycache__/
+*.pyc
+
+# Système
+Thumbs.db
+desktop.ini
+.DS_Store
